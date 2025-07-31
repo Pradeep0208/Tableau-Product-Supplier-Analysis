@@ -55,7 +55,7 @@ This Tableau dashboard provides a detailed business analysis of product performa
 
 
 
-## 🧠 Insights Uncovered
+##  Insights Uncovered
 - Many products with **high quantity sold** are not necessarily **top revenue generators**.
 - Several suppliers consistently produce **above-threshold products**, useful for inventory strategy.
 - A few products perform **poorly in both revenue and volume**, ideal candidates for promotion or discontinuation.
